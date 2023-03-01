@@ -1,4 +1,4 @@
-namespace PrototypePattern
+namespace PrototypePattern.Models
 {
     public abstract class FileComponent
     {

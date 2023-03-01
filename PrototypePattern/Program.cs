@@ -1,4 +1,6 @@
-﻿namespace PrototypePattern
+﻿using PrototypePattern.Models;
+
+namespace PrototypePattern
 {
     public class Program
     {

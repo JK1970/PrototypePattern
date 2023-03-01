@@ -1,4 +1,4 @@
-namespace PrototypePattern
+namespace PrototypePattern.Models
 {
     public class Image : FileComponent
     {
